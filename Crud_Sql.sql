@@ -19,7 +19,7 @@ insert into Datos values
 select * from Datos
 
 insert into Datos values
-('40230321892','adga','sasdjj','12')
+('78945612302','adga','sasdjj','12')
 
 delete from Datos where id=6
 
