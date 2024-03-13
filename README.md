@@ -1,3 +1,3 @@
 Menu Principal:
 
-![Mi captura de pantalla](1.png)
+![Mi captura de pantalla]("crud resourcse/1.png")
