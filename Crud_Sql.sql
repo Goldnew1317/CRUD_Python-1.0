@@ -15,12 +15,3 @@ create table Datos
 insert into Datos values
 ('12345678901','Sergio','Alcantara','46'),
 ('12341512341','Roberto Carlo','Fernandez','16')
-
-select * from Datos
-
-insert into Datos values
-('78945612302','adga','sasdjj','12')
-
-delete from Datos where id=6
-
-update Datos SET nombre = 'angel' where id=8
